@@ -2,7 +2,7 @@ import { NextRequest, NextResponse } from "next/server";
 
 export function GET(req:NextRequest){
     return NextResponse.json({
-        email:"aviralrawat365@gmail.com",
+        email:"xyz@gmail.com",
         password:12345678
     })
 }
